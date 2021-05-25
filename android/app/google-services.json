@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444895760377",
+    "project_id": "app-checkin-8f6f4",
+    "storage_bucket": "app-checkin-8f6f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444895760377:android:af26d67ac3fd7fad97f728",
+        "android_client_info": {
+          "package_name": "jdi.checkin.solution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444895760377-pndl7vs1ahbfh2gdk36jg9acniakm05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLqEa9HRSWqAdedJvQhfsEhqM_vxP6QI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444895760377-pndl7vs1ahbfh2gdk36jg9acniakm05r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
